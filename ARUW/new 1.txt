@@ -1,0 +1,2 @@
+https://api.elsevier.com/content/article/10.1007/[978-3-030-19648-6_42]?APIKey=[0664712d33abb96e29dcb74cc664f75b]
+https://api.elsevier.com/content/serial/title/issn/21945357?apiKey=0664712d33abb96e29dcb74cc664f75b
